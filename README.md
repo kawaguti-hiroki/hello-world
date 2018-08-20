@@ -12,4 +12,9 @@ qw4
 =======
 branch2
 >>>>>>> origin/brunch5
+<<<<<<< HEAD
 aaaaaaaaaaa
+=======
+
+brunch4
+>>>>>>> brunch5
